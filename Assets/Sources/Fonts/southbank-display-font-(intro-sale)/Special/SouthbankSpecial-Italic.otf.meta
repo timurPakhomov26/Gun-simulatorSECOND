@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ebc2b13b49f7bec469af0d74a4acd731
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Southbank Special
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 57de4e2dec873f347a583393d842e2fd, type: 3}
+  - {fileID: 12800000, guid: 2318d4a39effceb4488b6418d84ac2f7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

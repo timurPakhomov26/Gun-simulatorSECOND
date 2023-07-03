@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 068bc3f39c935eb4980987844e7821da, type: 3}
+  m_Name: JackHummer
+  m_EditorClassIdentifier: 
+  _buyPerRealMoney: 0
+  _bullet: {fileID: 2297786258592943808, guid: fe21f04aa08533946a5be847866bdef3, type: 3}
+  _name: "\u0414\u0436\u044D\u043A \u0425\u0430\u043C\u043C\u0435\u0440"
+  _nameEn: Jack Hammer
+  _nameTr: "Jack \xC7eki\xE7"
+  _weaponClass: "\u0412\u0438\u043D\u0442\u043E\u0432\u043A\u0430"
+  _weaponClassEn: Rifle
+  _weaponClassTr: "T\xFCfek"
+  _bulletsCount: 5
+  _price: 27000
+  _rateOfFire: 0.4
+  _type: 1
+  _experiencePerShot: 45
+  _coinsPerShot: 45
+  _levelForOpen: 8

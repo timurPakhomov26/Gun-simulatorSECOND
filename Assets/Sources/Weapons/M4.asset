@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 068bc3f39c935eb4980987844e7821da, type: 3}
+  m_Name: M4
+  m_EditorClassIdentifier: 
+  _buyPerRealMoney: 0
+  _bullet: {fileID: 2297786258592943808, guid: fe21f04aa08533946a5be847866bdef3, type: 3}
+  _name: M4
+  _nameEn: M4
+  _nameTr: M4
+  _weaponClass: "\u0412\u0438\u043D\u0442\u043E\u0432\u043A\u0430"
+  _weaponClassEn: Rifle
+  _weaponClassTr: "T\xFCfek"
+  _bulletsCount: 25
+  _price: 22500
+  _rateOfFire: 0.3
+  _type: 1
+  _experiencePerShot: 40
+  _coinsPerShot: 40
+  _levelForOpen: 7

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2733c7509ff861e4a870bea6147df94e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Southbank Slab
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e08c7aed892a65b44b614f736d449514, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

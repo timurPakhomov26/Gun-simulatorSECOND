@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0c18c0847074d684b8ee911eab51954a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Southbank Spurs
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 40be3634ef57a184d84293ad00181949, type: 3}
+  - {fileID: 12800000, guid: 4b1be695ff58cfd4a89098c7be7ab91e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

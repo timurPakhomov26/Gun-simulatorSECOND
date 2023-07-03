@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1553842288053138
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4377638721906192}
+  - component: {fileID: 114343947815564292}
+  m_Layer: 0
+  m_Name: GameArter_Initialize
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4377638721906192
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1553842288053138}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114343947815564292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1553842288053138}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 345616e4bf0d6b54d8e22d911c7f81e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  active: 0
+  enabledProtection: 0
+  projectId: 0
+  projectVersion: 0
+  platform: 0
+  multiplayer: 1
+  garterNetwork: 0
+  sdk: 1
+  ingameCurrency: 0
+  gamearterFeatures:
+    notifications: 0
+  advancedFeatureBox:
+    settingsButton: 1
+    shopButton: 0
+  featureBox:
+    settingsButton: 0
+  progressModule:
+    mode: 0
+    sdkProgressBar: 0
+  minimumTimescale: 0
+  analyticsMode: 0
+  autoSaving: 0
+  events:
+  - groupName: MyEventsGroup1
+    groupEvents:
+    - nameId: event1
+      initialValue: 0
+      trend: 0
+    - nameId: event2
+      initialValue: 0
+      trend: 0
+    - nameId: event3
+      initialValue: 0
+      trend: 0
+  property:
+    items: []
+    accessories: []
+  individual: 
